@@ -1,0 +1,1 @@
+void fox_multiply(int n, grid_structure *grid, int *local_a, int *local_b, int *local_c);
